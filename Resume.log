@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  21 APR 2017 22:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  21 APR 2017 22:18
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -574,17 +574,17 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
 {C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./DSC_6547
 .JPG>] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2965 strings out of 493333
- 38834 string characters out of 3142665
- 116682 words of memory out of 3000000
+ 2966 strings out of 493333
+ 38840 string characters out of 3142665
+ 117682 words of memory out of 3000000
  6452 multiletter control sequences out of 15000+200000
- 12278 words of font info for 31 fonts, out of 3000000 for 9000
+ 13385 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,35p,467b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
 {H:/Softwares/MikTex/fonts/enc/dvips/base/8r.enc}<H:/Softw
 ares/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><H:/Softwares/MikTex/fonts/type
 1/urw/times/utmb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Resume.pdf (1 page, 1175288 bytes).
+Output written on Resume.pdf (1 page, 1180707 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
