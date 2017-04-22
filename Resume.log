@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  22 APR 2017 13:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  22 APR 2017 13:13
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -572,21 +572,31 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
  [1
 
 {C:/Users/Lenovo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./DSC_6547
-.JPG>] (Resume.aux) ) 
+.JPG>]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 132.
+
+
+(H:\Softwares\MikTex\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 132.
+ [2] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2966 strings out of 493333
- 38840 string characters out of 3142665
- 119682 words of memory out of 3000000
- 6452 multiletter control sequences out of 15000+200000
+ 2983 strings out of 493333
+ 39115 string characters out of 3142665
+ 120682 words of memory out of 3000000
+ 6466 multiletter control sequences out of 15000+200000
  13385 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,35p,467b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-{H:/Softwares/MikTex/fonts/enc/dvips/base/8r.enc}<H:/Softw
-ares/MikTex/fonts/type1/urw/helvetic/uhvb8a.pfb><H:/Softwares/MikTex/fonts/type
-1/urw/times/utmb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Resume.pdf (1 page, 1182184 bytes).
+{H:/Softwares/MikTex/fonts/enc/dvips/base/8r.enc}<H:/Softwar
+es/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><H:/Softwares/MikTex/fonts/
+type1/urw/helvetic/uhvb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmb8a
+.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmr8a.pfb>
+Output written on Resume.pdf (2 pages, 1192116 bytes).
 PDF statistics:
- 20 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
