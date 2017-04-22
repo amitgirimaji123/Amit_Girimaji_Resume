@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  22 APR 2017 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  22 APR 2017 15:15
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -581,21 +581,24 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
- [2] [3] (Resume.aux) ) 
+ [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 225.
+ [3] (Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 2986 strings out of 493333
- 39147 string characters out of 3142665
+ 2989 strings out of 493333
+ 39182 string characters out of 3142665
  120682 words of memory out of 3000000
- 6467 multiletter control sequences out of 15000+200000
- 15069 words of font info for 34 fonts, out of 3000000 for 9000
+ 6469 multiletter control sequences out of 15000+200000
+ 16695 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,35p,467b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
-{H:/Softwares/MikTex/fonts/enc/dvips/base/8r.enc}<H:/Sof
-twares/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><H:/Softwares/MikTex/fo
-nts/type1/urw/helvetic/uhvb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/ut
-mb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmr8a.pfb><H:/Softwares/Mi
-kTex/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Resume.pdf (3 pages, 575056 bytes).
+{H:/Softwares/MikTex/fonts/enc/dvips/base/8r.enc}<H:/Softwar
+es/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><H:/Softwares/MikTex/fonts/
+type1/urw/helvetic/uhvb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmb8a
+.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmr8a.pfb><H:/Softwares/MikTex
+/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Resume.pdf (3 pages, 575526 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
