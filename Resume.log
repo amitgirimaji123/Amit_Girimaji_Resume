@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  22 APR 2017 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.21)  22 APR 2017 13:31
 entering extended mode
 **./Resume.tex
 (Resume.tex
@@ -548,13 +548,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 61.
 
-<DSC_6547.JPG, id=1, 481.3182pt x 601.7682pt>
+<DSC_6547.JPG, id=1, 288.8391pt x 361.1091pt>
 File: DSC_6547.JPG Graphic file (type jpg)
  <use DSC_6547.JPG>
 Package pdftex.def Info: DSC_6547.JPG used on input line 62.
-(pdftex.def)             Requested size: 101.0798pt x 126.37505pt.
+(pdftex.def)             Requested size: 109.75998pt x 137.22287pt.
 
-Overfull \vbox (76.05511pt too high) detected at line 62
+Overfull \vbox (86.90294pt too high) detected at line 62
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
@@ -594,7 +594,7 @@ Here is how much of TeX's memory you used:
 es/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><H:/Softwares/MikTex/fonts/
 type1/urw/helvetic/uhvb8a.pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmb8a
 .pfb><H:/Softwares/MikTex/fonts/type1/urw/times/utmr8a.pfb>
-Output written on Resume.pdf (2 pages, 1192693 bytes).
+Output written on Resume.pdf (2 pages, 557035 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
